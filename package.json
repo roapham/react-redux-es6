@@ -56,7 +56,8 @@
     "webpack-hot-middleware": "2.10.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prestart": "babel-node tools/startMessage.js",
+    "start": "babel-node tools/srcServer.js"
   },
   "repository": {
     "type": "git",
