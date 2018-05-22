@@ -1,0 +1,28 @@
+{
+  "name": "react-redux-es6",
+  "version": "1.0.0",
+  "description": "react redux es6 webpack mocha eslint",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^15.0.2",
+    "react-router": "^2.4.0",
+    "redux": "^3.5.2",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roapham/react-redux-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roapham/react-redux-es6/issues"
+  },
+  "homepage": "https://github.com/roapham/react-redux-es6#readme"
+}
